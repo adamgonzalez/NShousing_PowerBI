@@ -1,5 +1,5 @@
 # NShousing_PowerBI
-A Power BI dashboard presenting key trends of real estate sales in Nova Scotia from 2011-2025. 
+A Power BI dashboard presenting key trends of real estate sales in Nova Scotia from 2010-2025. 
 
 ## Data
 The data have been acquired through datazONE and have been pre-processed (cleaned, filtered, combined, etc.) using SQL before being loaded into Power BI.
