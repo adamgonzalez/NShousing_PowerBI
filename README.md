@@ -17,4 +17,4 @@ Prior to county selection, the information boxes and plots will be blank. Once a
 
 An animated GIF showcasing the dashboard features is shown below.
 
-![animation](demonstration.mp4)
+![animation](demo.gif)
