@@ -15,6 +15,6 @@ Along the bottom right are four plots displaying the sales volume and year-over-
 
 Prior to county selection, the information boxes and plots will be blank. Once a county, or multiple counties, are selected, the corresponding information will appear.
 
-An animated GIF showcasing the dashboard features is shown below.
+An animated GIF demonstrating the dashboard features is shown below.
 
 ![animation](demo.gif)
