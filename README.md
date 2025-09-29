@@ -1,4 +1,4 @@
-# NShousing_PowerBI
+# NS Parcel Sales Power BI Dashboard
 A Power BI dashboard presenting key trends of real estate sales in Nova Scotia from 2010-2025. 
 
 ## Data
